@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0fe76f89e912f2e6bcc7a1efec7fe09",
+    "revision": "3dbf3367f5223d26a1a6ac76643399b4",
     "url": "/portfolio_sravanthi.git/index.html"
   },
   {
-    "revision": "1a514e15eeffac507acf",
+    "revision": "a57b27419a79766b3e4e",
     "url": "/portfolio_sravanthi.git/static/css/main.8c975b68.chunk.css"
   },
   {
-    "revision": "5a3183b57fc6d06bf017",
-    "url": "/portfolio_sravanthi.git/static/js/2.433edfcf.chunk.js"
+    "revision": "6e3b55c61c933898bba4",
+    "url": "/portfolio_sravanthi.git/static/js/2.b5a91a1e.chunk.js"
   },
   {
     "revision": "3143274d7d26932c98894a52e75c487a",
-    "url": "/portfolio_sravanthi.git/static/js/2.433edfcf.chunk.js.LICENSE"
+    "url": "/portfolio_sravanthi.git/static/js/2.b5a91a1e.chunk.js.LICENSE"
   },
   {
-    "revision": "1a514e15eeffac507acf",
-    "url": "/portfolio_sravanthi.git/static/js/main.d9ec74ca.chunk.js"
+    "revision": "a57b27419a79766b3e4e",
+    "url": "/portfolio_sravanthi.git/static/js/main.2f996a55.chunk.js"
   },
   {
     "revision": "56ca7be23916c200e3b2",
