@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8c975b68.chunk.css",
-    "main.js": "/portfolio/static/js/main.4875435c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4875435c.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.8a9a6b31.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8a9a6b31.js.map",
-    "static/js/2.b5a91a1e.chunk.js": "/portfolio/static/js/2.b5a91a1e.chunk.js",
-    "static/js/2.b5a91a1e.chunk.js.map": "/portfolio/static/js/2.b5a91a1e.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.e7a4dea4f5839db27e7a02fd1ce79e39.js": "/portfolio/precache-manifest.e7a4dea4f5839db27e7a02fd1ce79e39.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.8c975b68.chunk.css.map": "/portfolio/static/css/main.8c975b68.chunk.css.map",
-    "static/js/2.b5a91a1e.chunk.js.LICENSE": "/portfolio/static/js/2.b5a91a1e.chunk.js.LICENSE",
-    "static/media/srav.jpg": "/portfolio/static/media/srav.7bbbbc04.jpg"
+    "main.css": "/portfolio_sravanthi/static/css/main.8c975b68.chunk.css",
+    "main.js": "/portfolio_sravanthi/static/js/main.3562a13c.chunk.js",
+    "main.js.map": "/portfolio_sravanthi/static/js/main.3562a13c.chunk.js.map",
+    "runtime-main.js": "/portfolio_sravanthi/static/js/runtime-main.a93d9ca5.js",
+    "runtime-main.js.map": "/portfolio_sravanthi/static/js/runtime-main.a93d9ca5.js.map",
+    "static/js/2.b5a91a1e.chunk.js": "/portfolio_sravanthi/static/js/2.b5a91a1e.chunk.js",
+    "static/js/2.b5a91a1e.chunk.js.map": "/portfolio_sravanthi/static/js/2.b5a91a1e.chunk.js.map",
+    "index.html": "/portfolio_sravanthi/index.html",
+    "precache-manifest.07ebc6a1203774da0cb21996dfd9749f.js": "/portfolio_sravanthi/precache-manifest.07ebc6a1203774da0cb21996dfd9749f.js",
+    "service-worker.js": "/portfolio_sravanthi/service-worker.js",
+    "static/css/main.8c975b68.chunk.css.map": "/portfolio_sravanthi/static/css/main.8c975b68.chunk.css.map",
+    "static/js/2.b5a91a1e.chunk.js.LICENSE": "/portfolio_sravanthi/static/js/2.b5a91a1e.chunk.js.LICENSE",
+    "static/media/srav.jpg": "/portfolio_sravanthi/static/media/srav.7bbbbc04.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a9a6b31.js",
+    "static/js/runtime-main.a93d9ca5.js",
     "static/js/2.b5a91a1e.chunk.js",
     "static/css/main.8c975b68.chunk.css",
-    "static/js/main.4875435c.chunk.js"
+    "static/js/main.3562a13c.chunk.js"
   ]
 }
