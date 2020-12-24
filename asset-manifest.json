@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c975b68.chunk.css",
-    "main.js": "/static/js/main.6adbac7a.chunk.js",
-    "main.js.map": "/static/js/main.6adbac7a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a7c61d0d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a7c61d0d.js.map",
-    "static/js/2.b5a91a1e.chunk.js": "/static/js/2.b5a91a1e.chunk.js",
-    "static/js/2.b5a91a1e.chunk.js.map": "/static/js/2.b5a91a1e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4e9054699e7bf873bea9cfd9314f5363.js": "/precache-manifest.4e9054699e7bf873bea9cfd9314f5363.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8c975b68.chunk.css.map": "/static/css/main.8c975b68.chunk.css.map",
-    "static/js/2.b5a91a1e.chunk.js.LICENSE": "/static/js/2.b5a91a1e.chunk.js.LICENSE",
-    "static/media/srav.jpg": "/static/media/srav.7bbbbc04.jpg"
+    "main.css": "/portfolio-sravanthi.git/static/css/main.8c975b68.chunk.css",
+    "main.js": "/portfolio-sravanthi.git/static/js/main.592b9947.chunk.js",
+    "main.js.map": "/portfolio-sravanthi.git/static/js/main.592b9947.chunk.js.map",
+    "runtime-main.js": "/portfolio-sravanthi.git/static/js/runtime-main.926afb5b.js",
+    "runtime-main.js.map": "/portfolio-sravanthi.git/static/js/runtime-main.926afb5b.js.map",
+    "static/js/2.b5a91a1e.chunk.js": "/portfolio-sravanthi.git/static/js/2.b5a91a1e.chunk.js",
+    "static/js/2.b5a91a1e.chunk.js.map": "/portfolio-sravanthi.git/static/js/2.b5a91a1e.chunk.js.map",
+    "index.html": "/portfolio-sravanthi.git/index.html",
+    "precache-manifest.1e1ef1960433c3d7b0f77b97d8bf3b66.js": "/portfolio-sravanthi.git/precache-manifest.1e1ef1960433c3d7b0f77b97d8bf3b66.js",
+    "service-worker.js": "/portfolio-sravanthi.git/service-worker.js",
+    "static/css/main.8c975b68.chunk.css.map": "/portfolio-sravanthi.git/static/css/main.8c975b68.chunk.css.map",
+    "static/js/2.b5a91a1e.chunk.js.LICENSE": "/portfolio-sravanthi.git/static/js/2.b5a91a1e.chunk.js.LICENSE",
+    "static/media/srav.jpg": "/portfolio-sravanthi.git/static/media/srav.7bbbbc04.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7c61d0d.js",
+    "static/js/runtime-main.926afb5b.js",
     "static/js/2.b5a91a1e.chunk.js",
     "static/css/main.8c975b68.chunk.css",
-    "static/js/main.6adbac7a.chunk.js"
+    "static/js/main.592b9947.chunk.js"
   ]
 }
