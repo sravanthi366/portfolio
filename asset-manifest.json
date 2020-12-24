@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sravanthi366.github.io/portfolio.git/static/css/main.8c975b68.chunk.css",
-    "main.js": "/sravanthi366.github.io/portfolio.git/static/js/main.ebd36457.chunk.js",
-    "main.js.map": "/sravanthi366.github.io/portfolio.git/static/js/main.ebd36457.chunk.js.map",
-    "runtime-main.js": "/sravanthi366.github.io/portfolio.git/static/js/runtime-main.81762ec1.js",
-    "runtime-main.js.map": "/sravanthi366.github.io/portfolio.git/static/js/runtime-main.81762ec1.js.map",
-    "static/js/2.50b9f261.chunk.js": "/sravanthi366.github.io/portfolio.git/static/js/2.50b9f261.chunk.js",
-    "static/js/2.50b9f261.chunk.js.map": "/sravanthi366.github.io/portfolio.git/static/js/2.50b9f261.chunk.js.map",
-    "index.html": "/sravanthi366.github.io/portfolio.git/index.html",
-    "precache-manifest.b62b5425b8565cf31ef1a79d2186e4b4.js": "/sravanthi366.github.io/portfolio.git/precache-manifest.b62b5425b8565cf31ef1a79d2186e4b4.js",
-    "service-worker.js": "/sravanthi366.github.io/portfolio.git/service-worker.js",
-    "static/css/main.8c975b68.chunk.css.map": "/sravanthi366.github.io/portfolio.git/static/css/main.8c975b68.chunk.css.map",
-    "static/js/2.50b9f261.chunk.js.LICENSE": "/sravanthi366.github.io/portfolio.git/static/js/2.50b9f261.chunk.js.LICENSE",
-    "static/media/srav.jpg": "/sravanthi366.github.io/portfolio.git/static/media/srav.7bbbbc04.jpg"
+    "main.css": "/portfolio.git/static/css/main.8c975b68.chunk.css",
+    "main.js": "/portfolio.git/static/js/main.27564a04.chunk.js",
+    "main.js.map": "/portfolio.git/static/js/main.27564a04.chunk.js.map",
+    "runtime-main.js": "/portfolio.git/static/js/runtime-main.7e74390f.js",
+    "runtime-main.js.map": "/portfolio.git/static/js/runtime-main.7e74390f.js.map",
+    "static/js/2.f2fe0f59.chunk.js": "/portfolio.git/static/js/2.f2fe0f59.chunk.js",
+    "static/js/2.f2fe0f59.chunk.js.map": "/portfolio.git/static/js/2.f2fe0f59.chunk.js.map",
+    "index.html": "/portfolio.git/index.html",
+    "precache-manifest.63a36e0ade2469f188a871c1fb094f77.js": "/portfolio.git/precache-manifest.63a36e0ade2469f188a871c1fb094f77.js",
+    "service-worker.js": "/portfolio.git/service-worker.js",
+    "static/css/main.8c975b68.chunk.css.map": "/portfolio.git/static/css/main.8c975b68.chunk.css.map",
+    "static/js/2.f2fe0f59.chunk.js.LICENSE": "/portfolio.git/static/js/2.f2fe0f59.chunk.js.LICENSE",
+    "static/media/srav.jpg": "/portfolio.git/static/media/srav.7bbbbc04.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81762ec1.js",
-    "static/js/2.50b9f261.chunk.js",
+    "static/js/runtime-main.7e74390f.js",
+    "static/js/2.f2fe0f59.chunk.js",
     "static/css/main.8c975b68.chunk.css",
-    "static/js/main.ebd36457.chunk.js"
+    "static/js/main.27564a04.chunk.js"
   ]
 }
